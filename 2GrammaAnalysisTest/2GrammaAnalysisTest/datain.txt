@@ -1,0 +1,47 @@
+function fun1()
+{
+	int a;
+	a= a+1;
+}
+main()
+{
+	int a;
+	int b;
+	int c;
+	b=3;
+	if(b<2)
+	{
+		b=b+1;
+	}
+	else
+	{
+		b=b-1;
+	}
+	while(b=1)
+	{
+		c=3;
+	}
+	for(int a=1;a<=3;a++)
+	{
+		b=b+1;
+	}
+	write a;
+	read b;
+	call fun1();
+	do
+	{
+		a=a+1;
+	}
+	while(a<4);
+	switch(a)
+	{
+		case 1:
+		{	
+			a=a-1;
+		}
+		case 2:
+		{
+			a=a+2;
+		}
+	}
+}

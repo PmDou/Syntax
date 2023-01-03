@@ -1,0 +1,27 @@
+function f1 ( int x int y ) {
+int a ;
+int a ;
+a = a + 1 ;
+a = x ;
+a = y ;
+}
+function f1 ( ) {
+}
+function f2 ( int z ) {
+int b ;
+b = z ;
+}
+main (  ) {
+int c ;
+int a ;
+int a ;
+int b [ 9 ] ;
+int b [ 3 ] ;
+read b ;
+c = c + 1 ;
+a = a + 1 ;
+call f1 ( 2 5 ) ;
+call f2 ( 3 ) ;
+call f3 ( ) ;
+read a ;
+}

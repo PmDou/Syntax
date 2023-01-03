@@ -1,0 +1,45 @@
+  0 BR      21
+  1 ENTER   5
+  2 LOADI   2
+  3 STO     2
+  4 LOADI   5
+  5 STO     3
+  6 LOAD    4
+  7 LOADI   1
+  8 ADD    
+  9 STO     4
+ 10 LOAD    2
+ 11 STO     4
+ 12 LOAD    3
+ 13 STO     4
+ 14 RETURN 
+ 15 ENTER   4
+ 16 LOADI   3
+ 17 STO     2
+ 18 LOAD    2
+ 19 STO     3
+ 20 RETURN 
+ 21 ENTER   8
+ 22 LOAD    6
+ 23 LOADI   1
+ 24 ADD    
+ 25 STO     6
+ 26 CAL     1
+ 27 CAL     15
+ 28 LOADI   1
+ 29 LOAD    7
+ 30 EQ     
+ 31 BRF     35
+ 32 LOADI   1
+ 33 STO     7
+ 34 BR      44
+ 35 LOADI   2
+ 36 LOAD    7
+ 37 EQ     
+ 38 BRF     42
+ 39 LOADI   2
+ 40 STO     7
+ 41 BR      44
+ 42 LOADI   3
+ 43 STO     7
+ 44 RETURN 

@@ -1,0 +1,29 @@
+/*展示函数调用、带参数函数、do_while、switch_case、for语句*/
+function f(int t){
+int i;
+i=3;
+do{            /*do_while语句*/ 
+t=t+1;
+i=i-1;
+}while(i>0);
+write i;
+write t;
+}
+function g(int u){
+switch(u){    /*switch_case语句*/ 
+case 2: u=u*2;
+case 1: u=u+9;
+}
+write u;
+}
+main()
+{
+int a;
+int j;
+read a;
+for(j=1;j<3;j++){
+a=a+1;
+}
+call f(a);
+call g(2);
+}

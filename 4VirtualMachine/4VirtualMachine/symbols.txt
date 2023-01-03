@@ -1,0 +1,11 @@
+global:
+global	10000	void		0
+__var__global1__	10000	int		4
+__var__global2__	10004	float		4
+f:
+f	1	void		0
+x	8	int		4
+b	12	int		4
+main:
+main	13	void		0
+a	8	int		4

@@ -1,0 +1,10 @@
+int main()
+{
+int character2;
+int b;
+read b;/*nihao*/
+for(a=0;a<=50;a=a+1)/*abcd*/
+	b=b+2;
+write a;
+write b;
+}

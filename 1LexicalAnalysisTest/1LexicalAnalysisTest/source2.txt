@@ -1,0 +1,18 @@
+function f()
+{
+    int a;
+    int c;
+    int b=5.4;
+    read a;
+    b=5;
+    WHILE(a<=3){
+        b=b+5;
+        a=a+1;
+        write b;
+    }
+    WRITE a;
+}
+main()
+{
+    call f();
+}

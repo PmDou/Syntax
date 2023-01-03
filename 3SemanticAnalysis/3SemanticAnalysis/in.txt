@@ -1,0 +1,27 @@
+function f1 ( int x int y ) {
+int d ;
+d = d + 1 ;
+d = x ;
+d = y ;
+}
+function f2 ( int z ) {
+int b ;
+b = z ;
+}
+main (  ) {
+int n [ 4 ] ;
+int c ;
+int a ;
+c = c + 1 ;
+call f1 ( 2 5 ) ;
+call f2 ( 3 ) ;
+switch ( a ) 
+ {
+     case : 1 a = 1 ;
+     break ;
+     case : 2 a = 2 ;
+     break ;
+     default :
+     a = 3 ;
+ }
+}
